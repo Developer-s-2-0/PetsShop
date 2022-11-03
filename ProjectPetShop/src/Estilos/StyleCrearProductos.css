@@ -1,0 +1,12 @@
+#divProductos{
+
+  height: 100vh;
+  background-image: url("../Recursos/wallpaper.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #000;
+  padding-top: 65px;
+}
+
+

@@ -1,0 +1,31 @@
+nav {
+  margin-top: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 500;
+  font-size: large;
+  background-color: #00204a;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.desactive {
+  color: #f8f6f6;
+  text-decoration: none;
+  padding: 0.5em;
+}
+
+.active {
+  color: #fdb44b;
+  text-decoration: none;
+  padding: 0.5em;
+}
+
+.profileimg {
+  height: 20px;
+  margin-right: 25px;
+  margin-top: 5px;
+}
