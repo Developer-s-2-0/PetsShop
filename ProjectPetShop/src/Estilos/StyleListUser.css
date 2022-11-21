@@ -1,0 +1,26 @@
+table , th, td{
+  border:2px solid #920020;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  margin-bottom: 100px;
+  
+}
+th,td{
+  padding: 10px;   /*separacion*/
+
+}
+table{
+  width: 100%;
+  background-color:#fdb44b ;
+}
+th{
+  color: beige;
+  background-color: #005792;
+}
+#title{
+  margin-top: 2%;
+  color: rgb(71, 63, 63);
+  position: relative;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}

@@ -1,0 +1,18 @@
+#createuser{
+  height: 100vh;
+  background-image: url("../Recursos/wallpaper.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #000;
+  padding-top: 65px;
+  
+}
+
+#tit{
+  color: aliceblue;
+  font-weight:bold;
+  font-size: xx-large;
+  font-style: normal;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
